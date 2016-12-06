@@ -1,0 +1,29 @@
+.clock {
+    font-family: "Courier New", Courier, monospace;
+    margin: 0 auto;
+    width: 330px;
+}
+
+h1 {
+    font-size: 3em;
+
+}
+
+.btn {
+    background-color: black;
+
+    padding: 5px 10px;
+    text-decoration: none;
+    color: white;
+}
+.btn--primary {
+    font-size:2em;
+}
+.btn--start {
+    background-color: green;
+
+}
+.btn--stop {
+    background-color: red;
+
+}
